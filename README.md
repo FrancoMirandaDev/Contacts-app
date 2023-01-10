@@ -1,5 +1,5 @@
 # Contacts-app
-Ejemplo de app web para almacenar contactos
+Aplicacion web para almacenar contactos
 
 Aplicacion de contactos que almacena :
   Nombre
